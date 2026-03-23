@@ -1,5 +1,4 @@
 import random
-import os 
 
 print("Olá. Bem-vindo a calculadora de vendas") #apresentacao
 
